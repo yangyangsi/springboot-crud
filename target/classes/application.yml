@@ -23,6 +23,6 @@ pagehelper:
  helperDialect: mysql
  reasonable: true
  supportMethodsArguments: true
- pageSizeZero: true     
+ pageSizeZero: true
  params: count=countSql
 
